@@ -1,0 +1,1 @@
+ALTER table conta add column esta_ativa boolean default true;
